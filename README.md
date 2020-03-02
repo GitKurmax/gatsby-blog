@@ -1,3 +1,8 @@
+Deployed on Netlify:
+
+[Here`s the link](https://priceless-engelbart-7c0dc3.netlify.com/)
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
